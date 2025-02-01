@@ -14,8 +14,3 @@ The slider is fully responsive and adapts to different screen sizes.
 - Manual navigation using previous/next buttons  
 - Smooth CSS transitions  
 - Lightweight and easy to integrate  
-
-## Installation
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/slider-project.git
