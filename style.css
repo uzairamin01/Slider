@@ -69,10 +69,10 @@ header{
 .slider .list .item .content{
     position: absolute;
     left: 10%;
-    top: 15%;
+    top: 10%;
     width: 500px;
     max-width: 80%;
-    z-index: 100;
+    z-index: 9;
 }
 
 .slider .list .item .content p:nth-child(1){
