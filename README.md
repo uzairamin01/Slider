@@ -14,3 +14,6 @@ The slider is fully responsive and adapts to different screen sizes.
 - Manual navigation using previous/next buttons  
 - Smooth CSS transitions  
 - Lightweight and easy to integrate  
+
+## Demo Site Live
+Link: https://uzairamin01.github.io/Slider/
