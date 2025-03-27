@@ -16,4 +16,4 @@ The slider is fully responsive and adapts to different screen sizes.
 - Lightweight and easy to integrate  
 
 ## Demo Site Live
-Link: https://uzairamin01.github.io/Slider/
+- Link: https://uzairamin01.github.io/Slider/
