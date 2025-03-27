@@ -4,4 +4,4 @@ It includes navigation buttons for manual control and an auto-slide feature for 
 The slider is fully responsive and adapts to different screen sizes.
 
 ## Demo Site Live
-- Link: https://uzairamin01.github.io/Slider/
+Link: https://uzairamin01.github.io/Slider/
